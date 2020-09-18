@@ -1,8 +1,9 @@
-##Projeto Recriando a Interface da Netflix
+## Projeto Recriando a Interface da Netflix
 
-###Projeto de estudo de frontend realizado no Bootcomp da Digital Innovation One com a adição de algumas melhorias.
 
-###### ##### #### Linguagens de programação e tecnologias utilizadas:
+### Projeto de estudo de frontend realizado no Bootcomp da Digital Innovation One com a adição de algumas melhorias.
+
+###### Linguagens de programação e tecnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
