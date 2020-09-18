@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NETFLIX CLONE</title>
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/responsive.css">
+  
+    
+</head>
+<body>
+   <header>
+       <div class="container">
+           <h2 class="logo">NETFLIX</h2>
+           <nav>
+                <a href="index.html">Início</a>
+               <a href="#">Séries</a>
+               <a href="#">Filmes</a>
+               <a href="#">Documentários</a>
+           </nav>
+       </div>
+   </header>
+
+   <main>
+       <div class="video-principal">
+           <div class="container1">           
+                <div style="--aspect-ratio: 16/9;">
+                    <iframe 
+                        width="1600" 
+                        height="900" 
+                        src="https://www.youtube.com/embed/oVzVdvGIC7U" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>    
+                </div>       
+              
+               <div class="botoes">
+                    <button onClick="Voltar()" role="button" class="botao">
+                      <i class="fas fa-home"></i>
+                        Home
+                    </button>
+                    <button onClick="Detalhes()" role="button" class="botao">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES
+                    </button>
+               </div>  
+           </div>                    
+       </div>
+   </main>
+
+ 
+
+
+   <script src="https://kit.fontawesome.com/6c64ea9657.js" crossorigin="anonymous"></script>
+   <script src="js/setup.js"></script>
+</body>
+</html>
