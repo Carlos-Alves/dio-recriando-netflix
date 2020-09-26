@@ -31,4 +31,4 @@ Exemplo de formação do banner de capa:
 ```
 
 ###### Observações:
-**Para vizualizar só é necessário baixar, descompactar e abrir em qualquer navegador o arquivo index.html**
+**Para vizualizar só é necessário baixar, descompactar e abrir em qualquer navegador o arquivo index.html ou acessar: https://carlos-alves.github.io/dio-recriando-netflix/**
